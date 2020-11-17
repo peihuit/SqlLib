@@ -1,0 +1,11 @@
+C:\Git\GitHub\SqlLib\SqlLib\obj\Debug\SqlLib.csprojAssemblyReference.cache
+C:\Git\GitHub\SqlLib\SqlLib\obj\Debug\SqlLib.csproj.CoreCompileInputs.cache
+C:\Git\GitHub\SqlLib\SqlLib\bin\Debug\SqlLib.dll
+C:\Git\GitHub\SqlLib\SqlLib\bin\Debug\SqlLib.pdb
+C:\Git\GitHub\SqlLib\SqlLib\bin\Debug\Dapper.dll
+C:\Git\GitHub\SqlLib\SqlLib\bin\Debug\NLog.dll
+C:\Git\GitHub\SqlLib\SqlLib\bin\Debug\Dapper.xml
+C:\Git\GitHub\SqlLib\SqlLib\bin\Debug\NLog.xml
+C:\Git\GitHub\SqlLib\SqlLib\obj\Debug\SqlLib.csproj.CopyComplete
+C:\Git\GitHub\SqlLib\SqlLib\obj\Debug\SqlLib.dll
+C:\Git\GitHub\SqlLib\SqlLib\obj\Debug\SqlLib.pdb
